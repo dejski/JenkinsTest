@@ -4,5 +4,6 @@ public class Hello {
 			System.out.println("Hello zmniejszone i=" + i);
 			//kom
 		}
+		}
 	}
 }
